@@ -19,7 +19,7 @@ function main() {
 function initalize() {
 	height = canvas.height();
 	width = canvas.width();
-	noOfPoints = 150;
+	noOfPoints = 25;
 	max_vel = 3;
 
 	initalizePoints();
