@@ -1,5 +1,5 @@
 //alert('Hello');
-var canvas = $('#mycanvas')
+var canvas = $('#mycanvas');
 var ctx = canvas[0].getContext('2d');
 
 var height, width, size;
